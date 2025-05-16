@@ -1,6 +1,6 @@
 # The Repository Pattern
 
-The Repository Pattern is a design pattern that mediates between the domain (business logic) and data mapping layers of your application. It acts like an in-memory collection of domain objects while abstracting away the details of data persistence.
+The Repository Pattern(Structural Pattern) is a design pattern that mediates between the domain (business logic) and data mapping layers of your application. It acts like an in-memory collection of domain objects while abstracting away the details of data persistence.
 
 ## Key Concept
 
