@@ -22,6 +22,7 @@ The Repository Pattern is a design pattern that mediates between the domain (bus
     Repository Implementation (Concrete)
         ↓
     Data Source (Database, API, etc.)
+    
 
 
 # In-Depth Analysis of Repository Pattern Layers
